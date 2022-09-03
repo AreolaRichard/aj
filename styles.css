@@ -1,0 +1,19 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    color: antiquewhite;
+}
+
+h3 {
+    color: red;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dashed;
+    border-color: purple;
+    border-width: 5px;
+    width: 10%;
+}
